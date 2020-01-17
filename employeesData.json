@@ -7,24 +7,24 @@
         "image":"https://github.com/yeshwanth-n-itt/imageGallery/blob/master/employeeImages/goku.jpg"
     },
     {
-        "name":"dhoni",
+        "name":"gohon",
         "degignation":"defender",
-        "project":"hitBall",
-        "year of exprience":"12years",
-        "image":"profile"
+        "project":"hitcell",
+        "year of exprience":"6years",
+        "image":"https://github.com/yeshwanth-n-itt/imageGallery/blob/master/employeeImages/248264-kEFqh-gH6Vks78xR.png"
     },
     {
-        "name":"abd",
+        "name":"goten",
         "degignation":"striker",
         "project":"entertain",
-        "year of exprience":"5years",
-        "image":"profile"
+        "year of exprience":"2years",
+        "image":"https://github.com/yeshwanth-n-itt/imageGallery/blob/master/employeeImages/goten.png"
     },
     {
         "name":"vegeta",
         "degignation":"sttuborn",
         "project":"entertain",
-        "year of exprience":"5years",
-        "image":"profile"
+        "year of exprience":"8years",
+        "image":"https://github.com/yeshwanth-n-itt/imageGallery/blob/master/employeeImages/vegeta.jfif"
     }
 ]
