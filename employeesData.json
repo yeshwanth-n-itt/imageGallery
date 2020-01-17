@@ -1,0 +1,23 @@
+[
+    {
+        "name":"virat",
+        "degignation":"captain",
+        "project":"teamManagemenr",
+        "year of exprience":"10years",
+        "image":"profile"
+    },
+    {
+        "name":"dhoni",
+        "degignation":"defender",
+        "project":"hitBall",
+        "year of exprience":"12years",
+        "image":"profile"
+    },
+    {
+        "name":"abd",
+        "degignation":"striker",
+        "project":"entertain",
+        "year of exprience":"5years",
+        "image":"profile"
+    }
+]
