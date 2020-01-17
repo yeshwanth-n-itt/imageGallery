@@ -3,28 +3,28 @@
         "name":"goku",
         "degignation":"protector",
         "project":"huntFrieza",
-        "year of exprience":"12years",
+        "yearOfExprience":"12years",
         "image":"https://yeshwanth-n-itt.github.io/imageGallery/employeeImages/goku.jpg"
     },
     {
         "name":"gohon",
         "degignation":"defender",
         "project":"hitcell",
-        "year of exprience":"6years",
+        "yearOfExprience":"6years",
         "image":"https://yeshwanth-n-itt.github.io/imageGallery/employeeImages/248264-kEFqh-gH6Vks78xR.png"
     },
     {
         "name":"goten",
         "degignation":"striker",
         "project":"entertain",
-        "year of exprience":"2years",
+        "yearOfExprience":"2years",
         "image":"https://yeshwanth-n-itt.github.io/imageGallery/employeeImages/goten.png"
     },
     {
         "name":"vegeta",
         "degignation":"sttuborn",
         "project":"entertain",
-        "year of exprience":"8years",
+        "yearOfExprience":"8years",
         "image":"https://yeshwanth-n-itt.github.io/imageGallery/employeeImages/vegeta.jfif"
     }
 ]
